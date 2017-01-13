@@ -1,3 +1,4 @@
+*.py linguist-language=python
 import re
 import urllib.request
 import ssl
